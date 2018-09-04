@@ -12,6 +12,7 @@ Data <- read.csv("C:\\Users\\ABINAYA-T\\Desktop\\Rexercise\\insurance.csv")
 sample_n(Data, 5)   # display random 5 rows from dataset
 describe(Data)
 names(Data)
+dim(Data)
 
 ################ Exploratory Data Analysis ##########################
 
