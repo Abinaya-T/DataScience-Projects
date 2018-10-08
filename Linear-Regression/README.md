@@ -1,4 +1,4 @@
-#Linear Regression
+# Linear Regression
 
 Purpose : Predicting the medical expenses of the insured population
 
