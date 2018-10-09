@@ -1,4 +1,4 @@
-# Classification of sms msgs as Ham/Spam Using Naive Bayes
+# Time Series Analysis
 
 **Purpose** : To classify mobile sms as ham/spam
 
